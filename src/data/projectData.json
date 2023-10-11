@@ -1,0 +1,52 @@
+{
+  "portfolio": [
+    {
+      "title": "Ice Breakers tournament",
+      "desc": "Website created for Knights of Columbus, KC Icemen and KC Cougars to show case their winter icebreaker hockey tournament.  This project included functionality for tournament information, registation, tournament schedule, ability to bid on silent auction items, and hockey pictures",
+      "alt": "tournament picture",
+      "images": [
+        "images/tournament/tour1.PNG",
+        "images/tournament/tour2.PNG",
+        "images/tournament/tour3.PNG",
+        "images/tournament/tour4.PNG",
+        "images/tournament/tour5.PNG"
+      ]
+    },
+    {
+      "title": "Coach Assist",
+      "desc": "React",
+      "alt": "eCoach picture",
+      "images": [
+        "images/eCoach/eCoach1.png",
+        "images/eCoach/eCoach2.png",
+        "images/eCoach/eCoach3.png",
+        "images/eCoach/eCoach4.png",
+        "images/eCoach/eCoach5.png"
+      ]
+    },
+    {
+      "title": "Hockey Sticks",
+      "desc": "React",
+      "alt": "tournament picture",
+      "images": [
+        "images/stick/stick1.PNG",
+        "images/stick/stick2.PNG",
+        "images/stick/stick3.PNG",
+        "images/stick/stick4.PNG",
+        "images/stick/stick5.PNG"
+      ]
+    },
+    {
+      "title": "Budget Project",
+      "desc": "React",
+      "alt": "tournament picture",
+      "images": [
+        "images/budget/Budget1.PNG",
+        "images/budget/Budget2.PNG",
+        "images/budget/Budget3.PNG",
+        "images/budget/Budget4.PNG",
+        "images/budget/Budget5.PNG"
+      ]
+    }
+  ]
+}
